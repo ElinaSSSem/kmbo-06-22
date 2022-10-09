@@ -27,7 +27,7 @@
 
 Масленников Иван https://github.com/ShadowGhosto/Julia--06-22-
 
-Молоненко Александра 
+Молоненко Александра https://github.com/ling23yuan/AlexandraM
 
 Носков Никита https://github.com/ToyokoShirah/homeworkjulia
 
