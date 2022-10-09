@@ -13,11 +13,11 @@
 
 Голубин Константин https://github.com/TastyBust/Ost-mirea
 
-Горский Тимофей 
+Горский Тимофей https://github.com/FenZer4/robothings
 
 Денисов Константин
 
-Ким Елена 
+Ким Елена https://github.com/LIKIona/liki
 
 Лисютин Денис 
 
@@ -33,13 +33,13 @@
 
 Оглоблин Алексей https://github.com/imyeskela/5-tasks-HorizonRobot
 
-Пермяков Кирилл 
+Пермяков Кирилл https://github.com/FenZer4/robothings
 
-Пугачев Даниил
+Пугачев Даниил https://github.com/Suukehiro/dz_algorithmica
 
 Семенидо Алина https://github.com/ElinaSSSem/Semenido-KMBO-06-22-
 
-Симонов Дмитрий 
+Симонов Дмитрий https://github.com/5aturN/Dmitriy-Simonov
 
 Симонов Иван
 
@@ -47,7 +47,7 @@
 
 Червень Дмитрий https://github.com/bedobee/bedobee
 
-Шленская Алеся 
+Шленская Алеся https://github.com/Shlyonskaya/KMBO-06-22
 
 Шоболов Дмитрий https://github.com/dysceedsKOTE/homworkjulia/tree/workinclassandhome
 
