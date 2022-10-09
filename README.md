@@ -1,11 +1,16 @@
 # kmbo-06-22
 Аксаев Арслан https://github.com/MrSardina/Yes
+
 Бреднев Денис https://github.com/FLX-trip/Julia-
+
 Буданов Иван https://github.com/Sentaniel19/-
+
 Вальдес-Перес Адам https://github.com/LondonDrip?tab=repositories
+
 Гаврилюк Юрий 
 Голобородько Кирилл 
 Голубин Константин https://github.com/TastyBust/Ost-mirea
+
 Горский Тимофей 
 Денисов Константин
 Ким Елена 
