@@ -45,7 +45,7 @@
 
 Страхов Вячеслав https://github.com/LocoloN/DzRobot.jl
 
-Червень Дмитрий 
+Червень Дмитрий https://github.com/bedobee/bedobee
 
 Шленская Алеся 
 
