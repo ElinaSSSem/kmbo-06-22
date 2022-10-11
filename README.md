@@ -7,19 +7,19 @@
 
 Вальдес-Перес Адам https://github.com/LondonDrip?tab=repositories
 
-Гаврилюк Юрий 
+Гаврилюк Юрий https://github.com/otletevshiy/Repository
 
-Голобородько Кирилл 
+Голобородько Кирилл https://github.com/KirillGoloborodko/KirillGoloborodko/new/main?filename=README.md&path=%2F&value=-+
 
 Голубин Константин https://github.com/TastyBust/Ost-mirea
 
 Горский Тимофей https://github.com/FenZer4/robothings
 
-Денисов Константин
+Денисов Константин https://github.com/Kuvvi/homework
 
 Ким Елена https://github.com/LIKIona/liki
 
-Лисютин Денис 
+Лисютин Денис https://github.com/Denis06-22/Robot
 
 Максимов Никита https://github.com/EvilBlackBerry/qqqww
 
@@ -41,7 +41,7 @@
 
 Симонов Дмитрий https://github.com/5aturN/Dmitriy-Simonov
 
-Симонов Иван
+Симонов Иван https://github.com/Simonov-Ivan/KMBO-06-22
 
 Страхов Вячеслав https://github.com/LocoloN/DzRobot.jl
 
