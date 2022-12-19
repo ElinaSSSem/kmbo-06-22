@@ -37,7 +37,7 @@
 
 Пугачев Даниил https://github.com/Suukehiro/dz_algorithmica
 
-Семенидо Алина https://github.com/ElinaSSSem/Semenido-KMBO-06-22-
+Семенидо Алина https://github.com/ElinaSSSem/Semenido-KMBO-06-22
 
 Симонов Дмитрий https://github.com/5aturN/Dmitriy-Simonov
 
